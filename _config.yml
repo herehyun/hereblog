@@ -3,7 +3,7 @@ title:               herehyunBlog
 tagline:             '시작의 블로그'
 description:         '데이터 분석 시작의 블로그입니다.'
 url:                 https://herehyun.github.io/hereblog.github.io/
-baseurl:             ''
+baseurl:             https://herehyun.github.io/hereblog.github.io/
 paginate:            5
 permalink:           pretty
 
